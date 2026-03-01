@@ -1,0 +1,24 @@
+# Large data files
+*.zip
+*.tar.gz
+*.tar
+
+# Output directories
+outputs/
+cv_bdd_objectdetection/bdd100k_cv_project-*/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
